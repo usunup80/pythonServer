@@ -1,8 +1,6 @@
 from django.conf.urls import include, url
 from django.contrib import admin
 
-from simpleServer import blog
-
 urlpatterns = [
     # Examples:
     # url(r'^$', 'mysite.views.home', name='home'),
